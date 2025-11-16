@@ -1,8 +1,8 @@
-<p align="right">
+ <p align="right">
   <img src="https://komarev.com/ghpvc/?username=DS-SAi2005&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile-views" />
 </p>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2NqM2N2eGJ5aXJtZmJ1eHh2eHIybG8weWs4a2JqZWt1Z3o1aWl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0l6hO/giphy.gif" />
 
 <h1 align="left">
   Hi there, I'm Sree Sai Dronadula 👋
@@ -59,7 +59,7 @@ I have a strong passion for building intelligent systems, with hands-on project 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"> |
-| **AI & ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"> <img src="httpsD://img.shields.io/badge/LLMs-mistral-lightgrey?style=flat&logo=huggingface&logoColor=black" alt="LLMs"> |
+| **AI & ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI"> <img src="https://img.shields.io/badge/LLMs-mistral-lightgrey?style=flat&logo=huggingface&logoColor=black" alt="LLMs"> |
 | **Data & Infra** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"> |
 | **Geospatial** | `GIS` `Remote Sensing` `DEMs` |
 
@@ -93,18 +93,18 @@ I have a strong passion for building intelligent systems, with hands-on project 
     alt="Sree Sai's GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-SAi2005&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-SAi2005&layout=compact&theme=tokyonight" 
     alt="Sree Sai's Top Languages"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/streak-stats?user=DS-SAi2005&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DS-SAi2005&theme=tokyonight" 
     alt="Sree Sai's GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="httpsG://github-readme-activity-graph.vercel.app/graph?username=DS-SAi2005&theme=tokyonight" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DS-SAi2005&theme=tokyonight" 
     alt="github-activity-graph"
   />
 </p>
