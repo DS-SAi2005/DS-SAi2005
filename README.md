@@ -93,11 +93,11 @@ I have a strong passion for building intelligent systems, with hands-on project 
     alt="Sree Sai's GitHub Stats"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DS-SAi2005&layout=compact&theme=tokyonight" 
+    src="https_//github-readme-stats.vercel.app/api/top-langs/?username=DS-SAi2005&theme=tokyonight" 
     alt="Sree Sai's Top Languages"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DS-SAi2005&theme=tokyonight" 
+    src="https_//github-readme-stats.vercel.app/api/streak-stats?user=DS-SAi2005&theme=tokyonight" 
     alt="Sree Sai's GitHub Streak"
   />
 </p>
