@@ -20,6 +20,9 @@
 <br>
 
 <p align="left">
+  <a href="https://ds-sai2005.github.io/Sree_Sai_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-20C20E?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
   <a href="www.linkedin.com/in/sree-sai-dronadula-346688255" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
